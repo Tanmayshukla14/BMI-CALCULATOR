@@ -50,7 +50,7 @@ Overweight	-25 to 29.9	(Orange);
 Obese	-30 or greater	(Red);
 
 
-contact
+Contact
 
-Author: Tanmay Shukla
+Author: Tanmay Shukla , 
 Email: tanmayshukla1408@gmail.com
