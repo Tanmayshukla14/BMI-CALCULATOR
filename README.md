@@ -27,10 +27,11 @@ Red: Obese
 
 Tech Stack
 
-Programming Language: Python 
+Programming Language: Python ,
 GUI Framework: Tkinter
 
 How It Works
+
 Input Details:
 Enter your name, age, height (in meters), and weight (in kilograms).
 Calculate BMI:
@@ -40,3 +41,16 @@ See your BMI value and health status displayed in the result section.
 Observe your BMI level visually on the meter.
 Color Feedback:
 The meter dynamically updates with a specific color indicating your BMI category.
+
+BMI Categories
+
+Underweight	-Less than 18.5(Blue);
+Normal Weight-	18.5 to 24.9	(Green);
+Overweight	-25 to 29.9	(Orange);
+Obese	-30 or greater	(Red);
+
+
+contact
+
+Author: Tanmay Shukla
+Email: tanmayshukla1408@gmail.com
